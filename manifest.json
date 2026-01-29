@@ -19,9 +19,9 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#fff",
-    "background_color": "#fff",
-    "start_url": "/",
-    "display": "fullscreen",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "start_url": "/calculator-app-pwa/",
+    "display": "standalone",
     "orientation": "portrait"
 }
